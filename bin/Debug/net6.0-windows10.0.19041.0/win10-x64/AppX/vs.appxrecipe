@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>CB461863-DCF8-4D8A-8AD1-74017BA160F5</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\Mark-PC\source\repos\PazuzuBankApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>F737EEB0B7FF78C8E3C45CDF1B2A19ADA085709172A8E8CEC0ECA0001E359208</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>CB461863-DCF8-4D8A-8AD1-74017BA160F5_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>CB461863-DCF8-4D8A-8AD1-74017BA160F5_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,28 +27,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-02T11:17:16.950</Modified>
+      <Modified>2023-03-02T11:43:42.664</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-02T11:17:16.304</Modified>
+      <Modified>2023-03-02T11:43:42.076</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.runtimeconfig.json">
       <PackagePath>PazuzuBankApp.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-02T08:41:56.494</Modified>
+      <Modified>2023-03-02T11:43:41.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.dll">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.dll">
       <PackagePath>PazuzuBankApp.dll</PackagePath>
-      <Modified>2023-03-02T11:17:14.622</Modified>
+      <Modified>2023-03-02T11:43:40.401</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PazuzuBankApp.exe</PackagePath>
-      <Modified>2023-03-02T11:17:14.654</Modified>
+      <Modified>2023-03-02T11:43:40.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mark-PC\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.13\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1130,9 +1130,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.deps.json">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\PazuzuBankApp.deps.json">
       <PackagePath>PazuzuBankApp.deps.json</PackagePath>
-      <Modified>2023-03-02T11:17:16.687</Modified>
+      <Modified>2023-03-02T11:43:42.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.536\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1146,247 +1146,247 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2022-09-09T00:30:26.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-03-01T11:06:50.138</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PazuzuBankApp.styles.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\PazuzuBankApp.styles.css">
       <PackagePath>wwwroot\PazuzuBankApp.styles.css</PackagePath>
       <Modified>2023-03-02T08:37:13.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PazuzuBankApp.bundle.scp.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\PazuzuBankApp.bundle.scp.css">
       <PackagePath>wwwroot\PazuzuBankApp.bundle.scp.css</PackagePath>
       <Modified>2023-03-02T08:37:13.118</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\app.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
       <Modified>2023-03-01T11:17:57.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
       <Modified>2023-03-01T11:06:49.951</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\bootstrap\bootstrap.min.css.map">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
       <Modified>2023-03-01T11:06:49.957</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
       <Modified>2023-03-01T11:06:50.041</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\fonts\open-iconic.eot">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.eot</PackagePath>
       <Modified>2023-03-01T11:06:50.086</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\fonts\open-iconic.otf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.otf</PackagePath>
       <Modified>2023-03-01T11:06:50.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\fonts\open-iconic.svg">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.svg</PackagePath>
       <Modified>2023-03-01T11:06:50.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.ttf</PackagePath>
       <Modified>2023-03-01T11:06:50.105</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
       <Modified>2023-03-01T11:06:50.108</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\FONT-LICENSE">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\FONT-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
       <Modified>2023-03-01T11:06:49.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\ICON-LICENSE">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>
       <Modified>2023-03-01T11:06:50.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\css\open-iconic\README.md">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\css\open-iconic\README.md">
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
       <Modified>2023-03-01T11:06:50.032</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\favicon.ico">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2023-03-01T11:06:50.178</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\wwwroot\index.html">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2023-03-01T11:06:50.188</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.359</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.377</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.439</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2023-03-01T11:06:50.129</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2023-03-02T08:41:54.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.631</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.640</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.644</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.694</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.717</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.669</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.677</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.681</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.689</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.648</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.652</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.660</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.666</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.741</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.748</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.807</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2023-03-02T08:41:54.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2023-03-02T08:41:54.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2023-03-02T08:41:54.630</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2023-03-02T08:41:54.650</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2023-03-02T08:41:54.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\Shared\MainLayout.razor.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
       <Modified>2023-03-01T11:06:50.153</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp\Shared\NavMenu.razor.css">
+    <AppxPackagedFile Include="C:\Users\Mark-PC\source\repos\PazuzuBankApp2.0\Shared\NavMenu.razor.css">
       <PackagePath>Shared\NavMenu.razor.css</PackagePath>
       <Modified>2023-03-01T11:06:50.159</Modified>
     </AppxPackagedFile>
