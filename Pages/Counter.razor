@@ -1,0 +1,53 @@
+﻿@page "/counter"
+
+
+@using PazuzuBankApp.Data
+
+<h1>User Login</h1>
+
+<div>
+    <label for="username">Username:</label>
+    <input id="username" @bind="username" />
+</div>
+
+<div>
+    <label for="password">Password:</label>
+    <input id="password" type="password" @bind="password" />
+</div>
+
+<button @onclick="Login">Login</button>
+
+@if (isLoggedIn)
+{
+    <p>You are logged in!</p>
+}
+else if (invalidCredentials)
+{
+    <p>Invalid username or password.</p>
+}
+
+@code {
+    [Parameter]
+    public List<Customer> Customers { get; set; }
+
+    private string username = "";
+    private string password = "";
+    private bool isLoggedIn = false;
+    private bool invalidCredentials = false;
+
+    public void Login()
+    {
+            var customer = new Bank().GetCustomerByUsernameAndPassword(username, password);
+
+
+        if (customer != null)
+        {
+            isLoggedIn = true;
+            invalidCredentials = false;
+        }
+        else
+        {
+            invalidCredentials = true;
+        }
+    }
+}

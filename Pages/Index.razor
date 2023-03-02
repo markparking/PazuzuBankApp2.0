@@ -1,0 +1,62 @@
+﻿@page "/"
+@inject LoginService loginService
+@inject Bank bank
+@inject NavigationManager NavigationManager
+
+<h1>Admin Login</h1>
+
+@if (loggedIn)
+{
+    <div>
+        <button @onclick="Logout">Logout</button>
+        <br /><br />
+        <FetchData Customers="customers" />
+    </div>
+}
+else
+{
+    <div>
+        <label for="username">Username:</label>
+        <input id="username" @bind="username" /><br />
+        <label for="password">Password:</label>
+        <input id="password" @bind="password" type="password" /><br />
+        <button @onclick="Login">Login</button>
+        <br /><br />
+        <p>@message</p>
+    </div>
+}
+
+@code {
+    private string username;
+    private string password;
+    private bool loggedIn = false;
+    private List<Customer> customers;
+    private string message = "";
+
+    protected override void OnInitialized()
+    {
+        customers = bank.GetCustomers();
+    }
+
+    public void Login()
+    {
+        if (loginService.Login(username, password))
+        {
+            loggedIn = true;
+            message = "";
+            
+        }
+        else
+        {
+            loggedIn = false;
+            message = "Invalid username or password.";
+        }
+    }
+
+    public void Logout()
+    {
+        loggedIn = false;
+        username = "";
+        password = "";
+    }
+}
