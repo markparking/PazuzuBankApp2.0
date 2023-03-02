@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/RPj4IIx/Sz50waAJR4uAGkmqmBLV1ciiB8ApzRTPvmhwix3IdYEtSCc1z2yHL3ZnzIrHg3w3rRbLoSFDvJ3A==",
+  "dgSpecHash": "1NSQCRBi2y3B+LJAPHBUAYE5uVfObFH+lctCiZn/Cp667P1pn+TozKxRAFo2G3+6AndfqXWWzSKfpIpTb1pOHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\PazuzuBankApp.csproj",
+  "projectFilePath": "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\PazuzuBankApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mark-PC\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Mark-PC\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",

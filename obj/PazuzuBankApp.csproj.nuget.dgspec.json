@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\PazuzuBankApp.csproj": {}
+    "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\PazuzuBankApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\PazuzuBankApp.csproj": {
+    "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\PazuzuBankApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\PazuzuBankApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\PazuzuBankApp.csproj",
         "projectName": "PazuzuBankApp",
-        "projectPath": "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\PazuzuBankApp.csproj",
+        "projectPath": "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\PazuzuBankApp.csproj",
         "packagesPath": "C:\\Users\\Mark-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mark-PC\\source\\repos\\PazuzuBankApp2.0\\obj\\",
+        "outputPath": "C:\\Users\\Mark-PC\\Source\\Repos\\PazuzuBankApp3.0\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

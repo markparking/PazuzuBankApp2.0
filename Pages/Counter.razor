@@ -19,7 +19,11 @@
 
 @if (isLoggedIn)
 {
-    <p>You are logged in!</p>
+        <div>
+            <button @onclick="Logout">Logout</button>
+            <br /><br />
+            <AccountMenu Accounts="" />
+    </div>
 }
 else if (invalidCredentials)
 {
@@ -27,9 +31,6 @@ else if (invalidCredentials)
 }
 
 @code {
-    [Parameter]
-    public List<Customer> Customers { get; set; }
-
     private string username = "";
     private string password = "";
     private bool isLoggedIn = false;
@@ -49,5 +50,12 @@ else if (invalidCredentials)
         {
             invalidCredentials = true;
         }
+    }
+
+    public void Logout()
+    {
+        isLoggedIn = false;
+        username = "";
+        password = "";
     }
 }

@@ -30,6 +30,7 @@
             <tr>
                 <th>Name</th>
                 <th>Email</th>
+                <th>Password</th>
                 <th>Account</th>
                 <th>Balance</th>
             </tr>
@@ -40,6 +41,7 @@
                 <tr>
                     <td>@customer.Name</td>
                     <td>@customer.Email</td>
+                    <td>@customer.Password</td>
                     <td>@customer.Account</td>
                     <td>@customer.Balance</td>
                 </tr>
@@ -60,8 +62,9 @@ else
 
     public void CreateNewCustomer()
     {
+        newCustomer.Account = newCustomer.GenerateAccountNumber();
         // Add the new customer to the list of customers
-        Customers.Add(new Customer(newCustomer.Name, newCustomer.Email, newCustomer.Balance));
+        Customers.Add(new Customer(newCustomer.Name, newCustomer.Email, newCustomer.Password, newCustomer.Account, newCustomer.Balance));
 
         // Clear the new customer form
         newCustomer = new Customer();
